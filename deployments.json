@@ -25,6 +25,10 @@
     "aeroCL": {
       "hex": "0x4480c14ab5ba4c36e61cd5b0cf42cd8f12483fbbf0320806b86594b792bc9a8c",
       "address": "0xb90835c4B7b11e49264f7403E07516e9DC789a03"
+    },
+    "erc4626": {
+      "hex": "0x45f39c8c7e3105201fd8b1288ac068347728af9cfd16f3f08e97171ef955c9ab",
+      "address": "0x918911970E944910908C66D4Ee8C233a8A442f51"
     }
   }
 }
